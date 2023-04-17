@@ -6,7 +6,7 @@ This app is designed for shoe enthusiasts to showcase their shoe collection, con
 
 # Built With
 * Express
-* https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+* ![React Logo](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 * Node.js
 * MongoDB
 * Javascript
