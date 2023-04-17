@@ -16,6 +16,7 @@ This app is designed for shoe enthusiasts to showcase their shoe collection, con
 
 # Links
 [Trello Board](https://trello.com/b/e28wlr3w/project-4)
+[Heroku deploy](https://shoes-project4.netlify.app/)
 
 # Future edits
 * Impliment login
