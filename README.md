@@ -5,7 +5,7 @@ This app is designed for shoe enthusiasts to showcase their shoe collection, con
 
 ![My App](https://user-images.githubusercontent.com/122836814/232351633-6a9af1fa-56c3-483d-9229-9dcb52f1b597.png)
 
-# languages
+# Built With
 * Express
 * React
 * Node.js
@@ -14,8 +14,9 @@ This app is designed for shoe enthusiasts to showcase their shoe collection, con
 * CSS
 * HTML
 
+# Links
+[Trello Board](https://trello.com/b/e28wlr3w/project-4)
+
 # Future edits
 * Impliment login
 * Add a comment section
-
-[Trello Board](https://trello.com/b/e28wlr3w/project-4)
