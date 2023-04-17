@@ -17,3 +17,5 @@ This app is designed for shoe enthusiasts to showcase their shoe collection, con
 # Future edits
 * Impliment login
 * Add a comment section
+
+![Trello Board](https://trello.com/b/e28wlr3w/project-4)
